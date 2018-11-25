@@ -1,0 +1,97 @@
+body
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lewy
+{
+	width: 25%;
+
+	float: left;
+}
+
+.srodek
+{
+	width: 48%;
+
+	float: left;
+}
+
+.prawy
+{
+	width: 25%;
+
+	float: left;
+}
+
+.clear
+{
+	clear:both;
+}
+
+.gora
+{
+	    font-size: 2em;
+	width: 100%;
+	font-weight: bold;
+	color: red;
+    font-family: helvetica;
+    text-align: center;
+	    text-decoration: underline;
+}
+
+.goraa
+{
+	width: 100%;
+	    font-weight: bold;
+    color: black;
+    font-family: cursive;
+    font-size: 24px;
+    text-align: center;
+		
+}
+
+.goraaa
+{
+	width: 100%;
+	color: black;
+    font-family: cursive;
+    font-size: 24px;
+    text-align: center;
+	    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.obrazeksrodek
+{
+	border: 4px dashed red;
+}
+
+.zyczenia
+{
+	color: red;
+    font-family: cursive;
+    text-align: center;
+	    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+	width: 100%;
+}
+
+.zyczeniadwa
+{
+	border: 6px ridge red;
+}
+
+.kartonik
+{
+	margin-left: auto;
+	margin-right: auto;
+}
